@@ -3,9 +3,7 @@
 <!--
 **DWotherspoon94/DWotherspoon94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-###
-
-- Location: Cambridge, UK
+### Location: Cambridge, UK
 
 - My Favorite Fluorophore/Metal-Isotope: Spark Blue 550
 
